@@ -110,11 +110,6 @@ class HomePage extends StatelessWidget {
                     //     color: Colors.lightGreen.shade200),
 
                      Image.asset("assets/images/2d.png",width: 200,height: 100),
-                     //SvgPicture.asset(
-                     // 'assets/profile.svg',  // Path to your SVG file
-                     //height: 20,  // Adjust height as needed
-                     //width: 20,  // Color of the SVG, if applicable
-                     //),
 
                      Text(
                        "SUPPLIERS",
